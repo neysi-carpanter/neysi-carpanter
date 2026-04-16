@@ -18,4 +18,4 @@
 </p>
 
 ### 📊 Моя статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=[neysi-carpanter]&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=neysi-carpanter&show_icons=true&theme=radical)
